@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/health97_opd/static/css/main.ba3e5b94.chunk.css",
+    "main.js": "/health97_opd/static/js/main.001cd98f.chunk.js",
+    "main.js.map": "/health97_opd/static/js/main.001cd98f.chunk.js.map",
+    "runtime-main.js": "/health97_opd/static/js/runtime-main.9a85bdff.js",
+    "runtime-main.js.map": "/health97_opd/static/js/runtime-main.9a85bdff.js.map",
+    "static/css/2.f2512455.chunk.css": "/health97_opd/static/css/2.f2512455.chunk.css",
+    "static/js/2.e094009a.chunk.js": "/health97_opd/static/js/2.e094009a.chunk.js",
+    "static/js/2.e094009a.chunk.js.map": "/health97_opd/static/js/2.e094009a.chunk.js.map",
+    "index.html": "/health97_opd/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/health97_opd/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.ba3e5b94.chunk.css.map": "/health97_opd/static/css/main.ba3e5b94.chunk.css.map",
+    "static/js/2.e094009a.chunk.js.LICENSE.txt": "/health97_opd/static/js/2.e094009a.chunk.js.LICENSE.txt",
+    "static/media/Prescription_VinayH7B8_38 (1).28874247.pdf": "/health97_opd/static/media/Prescription_VinayH7B8_38 (1).28874247.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a85bdff.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.e094009a.chunk.js",
+    "static/css/main.ba3e5b94.chunk.css",
+    "static/js/main.001cd98f.chunk.js"
+  ]
+}
